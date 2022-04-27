@@ -1,6 +1,6 @@
 - 👋 Hi, I’m YoshinonHero
 - 👀 I’m interested in learning the world of programming
-- 🌱 I’m currently learning frontend (HTML, CSS, JS) and C++
+- 🌱 I’m currently learning frontend (HTML, CSS, JS)
 - 💞️ I’m looking to collaborate on website development and games
 
 <!---
